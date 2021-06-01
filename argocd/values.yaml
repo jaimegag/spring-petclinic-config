@@ -1,0 +1,9 @@
+#@data/values
+---
+petclinic:
+  host: ""
+  image: ""
+  wavefront:
+    applicationName: ""
+    uri: ""
+    apiToken: ""
