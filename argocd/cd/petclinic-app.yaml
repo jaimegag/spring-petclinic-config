@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: spring-petclinic
-        image: harbor.rito.tkg-vsp-lab.hyrulelab.com/petclinic/spring-petclinic-demo
+        image: harbor.rito.tkg-vsp-lab.hyrulelab.com/petclinic/spring-petclinic
         ports:
         - containerPort: 8080
         readinessProbe:
